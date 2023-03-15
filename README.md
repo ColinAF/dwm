@@ -1,6 +1,9 @@
 # Colin's fork of dwm
 This is my fork of dwm. I tend to like suckless tools so we'll see where this goes.
 
+## Added Patches 
+- Full Gaps
+
 ## dwm - dynamic window manager
 dwm is an extremely fast, small, and dynamic window manager for X.
 
